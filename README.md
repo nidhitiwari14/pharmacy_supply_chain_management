@@ -14,7 +14,7 @@ The scope of this project includes all phases of supply chain management for a p
 
 ## DDLScripts
 
-* Contains Create Table Commands for creating all 15 Tables
+## Contains Create Table Commands for creating all 15 Tables
 
 List of Tables Created
 ● Vendor 
@@ -33,22 +33,22 @@ List of Tables Created
 ● Drug
 ● DistributesCollection
 
-# Contains Data Encryption of Customer SSN Number in Customer Table
+## Contains Data Encryption of Customer SSN Number in Customer Table
 
-# Contains below procedures
+## Contains below procedures
 * GetMaximumQuantityVendor
 * GetDistributorforMaxRevenue
 * GetAllDrugBatchesNeedColdStorage
 * GetOrderDetails
 
-# Contains below function
+## Contains below function
 * GetDatesBatchManufaturedToDistributed
 
-# Contains below Views
+## Contains below Views
 * Distributor_Order_Details_View 
 * Supply_Order_View 
 
-# Contains below Trigger
+## Contains below Trigger
 * DrugFDAStatusChange
 * And Table DrugFDAApprovalChangeHistory to track history
 
