@@ -52,7 +52,7 @@ List of Tables Created
 * DrugFDAStatusChange
 * And Table DrugFDAApprovalChangeHistory to track history
 
-* DML Script contains procedures to insert records in tables and Execute all Procedures, Functions and Triggers
+## DML Script contains procedures to insert records in tables and Execute all Procedures, Functions and Triggers
 
-* Business Intelligence Report contains Dashboard and Reports
+## Business Intelligence Report contains Dashboard and Reports
 
